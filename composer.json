@@ -85,6 +85,7 @@
             ]
         }
     },
+    "abandoned": "rinvex/laravel-bookings",
     "minimum-stability": "dev",
     "prefer-stable": true
 }
